@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezeecode
 - 👀 I’m interested in ... Data Science, AI, ML and its applications
 - 🌱 I’m currently learning ... Software Development and a bit of Web Dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... building AI powered apps
 - 📫 How to reach me ...
 
 <!---
